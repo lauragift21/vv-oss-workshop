@@ -1,12 +1,12 @@
 <template>
   <nav>
     <h1>Femme Tech</h1>
-    <span>About</span>
   </nav>
 </template>
 
 <style lang="css" scoped>
 nav {
+  font-family: 'Molle', cursive;
   margin: 50px;
   display: flex;
   justify-content: space-between;

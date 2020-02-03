@@ -41,7 +41,7 @@ export default {
 }
 p {
   max-width: 50vw;
-  font-size: 1.9rem;
+  font-size: 29px;
   margin-top: 4rem;
 }
 svg {
