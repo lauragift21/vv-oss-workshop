@@ -2,24 +2,28 @@
   <div class="container">
     <Nav />
     <Gallery />
+    <Footer />
   </div>
 </template>
 
 <script>
 import Nav from '~/components/Nav';
 import Gallery from '~/components/Gallery';
+import Footer from '~/components/Footer';
 
 export default {
  components: {
    Nav,
-   Gallery
+   Gallery,
+   Footer
  }
 }
 </script>
 
 <style>
 .container {
-  border: 9px solid pink;
+  border: 39px solid #fcd3d3;
+  background: #faeeee;
   min-height: 100vh;
 }
 </style>
