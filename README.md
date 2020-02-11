@@ -20,7 +20,7 @@ $ yarn run generate
 ```
 
 ## Contributing Guide
-[See details about contributing to this project]()
+[See details about contributing to this project](https://github.com/lauragift21/vv-oss-workshop/blob/master/CONTRIBUTING.md)
 
 ## Further Resources
 [Open Source Friday](https://opensourcefriday.com/)
