@@ -1,6 +1,8 @@
 # Vue Vixens x Open Source Festival Africa Workshop
 
 This repo contains materials and resources for Vue Vixens workshop. Follow the instructions below to get started with the project.  
+
+
 Author: Gift Egwuenu
 
 ## Installation
@@ -41,7 +43,6 @@ $ yarn run generate
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
-An Open Source Etiquette Guidebook
 ## License
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 

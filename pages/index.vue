@@ -22,7 +22,7 @@ export default {
 
 <style>
 .container {
-  border: 39px solid #fcd3d3;
+  border: 30px solid #fcd3d3;
   background: #faeeee;
   min-height: 100vh;
 }
