@@ -15,11 +15,14 @@
         <a :href="profile.twitter">
           <img :src="profile.image" alt="Gift Egwuenu" />
           <br />
-          <span> <b>{{profile.name}}</b></span>
+          <span>
+            <b>{{profile.name}}</b>
+          </span>
           <br />
-          <span>  {{profile.role}} 👩‍💻</span>
+          <span>👩‍💻 {{profile.role}}</span>
           <br />
-          <span> {{profile.Zodiac}} ⭐</span>
+          <span>{{profile.Zodiac}} ⭐</span>
+          <br />
         </a>
       </div>
     </section>
@@ -71,6 +74,12 @@ img {
   outline: none;
   border-radius: 10px;
   height: 300px;
+  filter: grayscale(1) blur(0.5px);
+  transition: 0.8s ease-in-out;
+}
+
+img:hover {
+  filter: none;
 }
 
 .gallery {
