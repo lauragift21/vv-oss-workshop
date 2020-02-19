@@ -1,7 +1,7 @@
 {
-  "name": "vv-workshop",
+  "name": "femme-tech",
   "version": "1.0.0",
-  "description": "My cat&#39;s pajamas Nuxt.js project",
+  "description": "Vue Vixens Workshop Project",
   "author": "lauragift21",
   "private": true,
   "scripts": {
