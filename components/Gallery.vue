@@ -12,17 +12,21 @@
     </section>
     <section class="gallery">
       <div :key="key" v-for="(profile, key) in profiles">
+        <img :src="profile.image" alt="Gift Egwuenu" />
+        <br />
+        <span>
+          <b>{{profile.name}}</b>
+        </span>
+        <br />
+        <span>👩‍💻 {{profile.role}}</span>
+        <br />
+        <span>♈ {{profile.Zodiac}} </span>
+        <br />
         <a :href="profile.twitter">
-          <img :src="profile.image" alt="Gift Egwuenu" />
-          <br />
-          <span>
-            <b>{{profile.name}}</b>
-          </span>
-          <br />
-          <span>👩‍💻 {{profile.role}}</span>
-          <br />
-          <span>{{profile.Zodiac}} ⭐</span>
-          <br />
+          <font-awesome-icon :icon="['fab', 'twitter']" style="color: #30acf7; font-size: 24px" />
+        </a> &nbsp;&nbsp;
+        <a :href="profile.linkedin">
+          <font-awesome-icon :icon="['fab', 'linkedin']" style="color: #1884c0; font-size: 24px" />
         </a>
       </div>
     </section>
@@ -63,13 +67,9 @@ svg {
   width: 40%;
   height: auto;
 }
-a {
-  text-decoration: none;
-  color: #000;
-  cursor: pointer;
-}
 
 img {
+  cursor: pointer;
   border: 15px solid#f8d1cf;
   outline: none;
   border-radius: 10px;
