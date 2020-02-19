@@ -5,7 +5,7 @@ Femme Tech is the home of all budding Vue Vixens and we will love to feature you
 
 ### How to Contribute
  
-- Fork this the repo
+- Fork this repo
 - Create a new branch with your first and lastname
 - Edit the women.json file with your details 
 - Confirm your details has been added by running the site 
