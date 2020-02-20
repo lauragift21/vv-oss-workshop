@@ -21,6 +21,6 @@ Femme Tech is the home of all budding Vue Vixens and we will love to feature you
   ```
 - Confirm your details has been added by running the site `yarn dev`
 - Push your changes and create a new pull request `git push origin branch-name`
-- Create a Pull Request and wait for me to merge it ❤️
+- Create a Pull Request and wait for me to merge it.
 
-That's it! You've just made your open source contribution don't stop here. Explore projects on GitHub and find one you will like to make contributions to send in that PR. Goodluck ❤️
+That's it! You've just made your first, second, third open source contribution don't stop here. Explore projects on GitHub and find one you will like to make contributions to send in that PR. Goodluck ❤️
