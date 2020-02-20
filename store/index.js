@@ -1,13 +1,13 @@
 export const state = () => ({
   profiles: [
     {
-      name: 'Gift Egwuenu',
+      name: 'Anthonia Okafor',
       image:
-        'https://res.cloudinary.com/lauragift/image/upload/w_300,h_300,q_auto/v1562153429/gift5_irlhir.jpg',
+        'https://res.cloudinary.com/twinkletoni/image/upload/v1582195343/Anthonia_z6n7er.jpg',
       role: 'Frontend Engineer',
-      Zodiac: 'Taurus',
-      twitter: 'https://twitter.com/lauragift_',
-      linkedin: 'https://www.linkedin.com/in/egwuenugift/'
+      Zodiac: 'Cancer',
+      twitter: 'https://twitter.com/twinkle_toni',
+      linkedin: 'https://www.linkedin.com/in/anthonia-okafor-01611868/'
     }
   ]
 })
