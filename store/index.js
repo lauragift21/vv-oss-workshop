@@ -9,7 +9,15 @@ export const state = () => ({
       twitter: 'https://twitter.com/lauragift_',
       linkedin: 'https://www.linkedin.com/in/egwuenugift/'
     },
-    
+    {
+      name: 'Anthonia Okafor',
+      image:
+        'https://res.cloudinary.com/twinkletoni/image/upload/v1582195343/Anthonia_z6n7er.jpg',
+      role: 'Frontend Engineer',
+      Zodiac: 'Cancer',
+      twitter: 'https://twitter.com/twinkle_toni',
+      linkedin: 'https://www.linkedin.com/in/anthonia-okafor-01611868/'
+    },
     {
       name: 'Usman Sakirat Kehinde',
       image: 'https://res.cloudinary.com/shakirah/image/upload/v1523834950/shakira.jpg',
