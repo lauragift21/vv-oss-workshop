@@ -8,6 +8,15 @@ export const state = () => ({
       Zodiac: 'Taurus',
       twitter: 'https://twitter.com/lauragift_',
       linkedin: 'https://www.linkedin.com/in/egwuenugift/'
+    },
+    
+    {
+      name: 'Usman Sakirat Kehinde',
+      image: 'https://res.cloudinary.com/shakirah/image/upload/v1523834950/shakira.jpg',
+      role: 'Frontend developer',
+      Zodiac: 'none',
+      twitter: 'https://twitter.com/oyinkan93',
+      linkedin: 'https://www.linkedin.com/in/sakirat-kehinde-usman-3a4600117/'
     }
   ]
 })
