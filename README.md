@@ -3,7 +3,7 @@
 This repo contains materials and resources for Vue Vixens workshop. Follow the instructions below to get started with the project.  
 
 
-Author: Gift Egwuenu
+Author: Gift Egwuenu   
 Workshop Slides: https://docs.google.com/presentation/d/1nokTOJW9TYc3itzYnuTnzVi24pT0zldRKhIvfggiAvk/edit?usp=sharing
 
 ## Installation
