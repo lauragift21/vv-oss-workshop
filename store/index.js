@@ -20,11 +20,19 @@ export const state = () => ({
     },
     {
       name: 'Usman Sakirat Kehinde',
-      image: 'https://res.cloudinary.com/shakirah/image/upload/v1523834950/shakira.jpg',
+      image: 'https://res.cloudinary.com/shakirah/image/upload/w_300,h_300,q_auto/v1523834950/shakira.jpg',
       role: 'Frontend developer',
       Zodiac: 'none',
       twitter: 'https://twitter.com/oyinkan93',
       linkedin: 'https://www.linkedin.com/in/sakirat-kehinde-usman-3a4600117/'
-    }
+    },
+    {
+      name: 'Keren-happuch Achoja',
+      image: 'https://pbs.twimg.com/profile_images/800504712793571332/ZE0fW8MK_400x400.jpg',
+      role: 'Frontend Developer Intern',
+      Zodiac: 'Aquarus',
+      twitter: 'https://twitter.com/go_qay',
+      linkedin: 'https://www.linkedin.com/in/achojakay'
+     }
   ]
 })
