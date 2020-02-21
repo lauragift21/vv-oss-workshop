@@ -20,7 +20,7 @@ export const state = () => ({
     },
     {
       name: 'Usman Sakirat Kehinde',
-      image: 'https://res.cloudinary.com/shakirah/image/upload/v1523834950/shakira.jpg',
+      image: 'https://res.cloudinary.com/shakirah/image/upload/w_300,h_300,q_auto/v1523834950/shakira.jpg',
       role: 'Frontend developer',
       Zodiac: 'none',
       twitter: 'https://twitter.com/oyinkan93',
