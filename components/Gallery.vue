@@ -4,7 +4,7 @@
       <p>
         Femme Tech is a project dedicated to celebrate the amazing women we have in the tech industry.
         Women continue to strive wherever we find ourselves and we don't just
-        <b>meet</b> expectations we
+        <b>meet</b> expectations, we
         <b>exceed</b> them.
         Let's all keep winning 🎉
       </p>
@@ -12,7 +12,7 @@
     </section>
     <section class="gallery">
       <div :key="key" v-for="(profile, key) in profiles">
-        <img :src="profile.image" alt="Gift Egwuenu" />
+        <img :src="profile.image" :alt="profile.name" />
         <br />
         <span>
           <b>{{profile.name}}</b>
@@ -28,6 +28,13 @@
         <a :href="profile.linkedin">
           <font-awesome-icon :icon="['fab', 'linkedin']" style="color: #1884c0; font-size: 24px" />
         </a>
+      </div>
+    </section>
+    <section class="last-section">
+      <div>
+        <p>Want to be a part of us? 
+          <a href="https://github.com/lauragift21/vv-oss-workshop">Get started</a>
+        </p>
       </div>
     </section>
   </div>
@@ -88,5 +95,8 @@ img:hover {
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 20px;
   text-align: center;
+}
+.last-section {
+  padding-top: 5vh;
 }
 </style>
