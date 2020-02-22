@@ -33,6 +33,15 @@ export const state = () => ({
       Zodiac: 'Aquarus',
       twitter: 'https://twitter.com/go_qay',
       linkedin: 'https://www.linkedin.com/in/achojakay'
-     }
+     },
+     {
+      name: 'Amarachi Shulammite Aso',
+      image:
+        'https://avatars.io/twitter/AsoAmarachi',
+      role: 'Software Engineer',
+      Zodiac: 'none',
+      twitter: 'https://twitter.com/AsoAmarachi',
+      linkedin: ''
+    },
   ]
 })
