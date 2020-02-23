@@ -43,5 +43,14 @@ export const state = () => ({
       twitter: 'https://twitter.com/AsoAmarachi',
       linkedin: ''
     },
+    {
+      name: 'Airah Yusuff',
+      image:
+        'https://pbs.twimg.com/profile_images/1187054482007494656/U8hrSXfh_400x400.jpg',
+      role: 'Frontend Engineer',
+      Zodiac: 'Aquarius',
+      twitter: 'https://twitter.com/khairahscorner',
+      linkedin: 'https://www.linkedin.com/in/khairah-yusuff/'
+    },
   ]
 })
