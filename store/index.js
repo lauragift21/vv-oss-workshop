@@ -52,5 +52,14 @@ export const state = () => ({
       twitter: 'https://twitter.com/khairahscorner',
       linkedin: 'https://www.linkedin.com/in/khairah-yusuff/'
     },
+    {
+      name: 'Linda Ikechukwu',
+      image:
+        'https://res.cloudinary.com/lindadxk/image/upload/v1582490966/C360_2020-02-07-19-17-08-655_f5fbi0.jpg',
+      role: 'Frontend Engineer/ Cloud Solutions Enthusiast',
+      Zodiac: 'Cancer',
+      twitter: 'https://twitter.com/_MsLinda',
+      linkedin: 'https://www.linkedin.com/in/Linda-Ikechukwu/'
+    },
   ]
 })
