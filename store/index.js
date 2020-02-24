@@ -70,5 +70,14 @@ export const state = () => ({
       twitter: 'https://twitter.com/Promiseorung',
       linkedin: 'https://www.linkedin.com/in/promise-orung-a3a495136/'
     },
+    {
+      name: 'Damilola Owolabi',
+      image:
+        'https://res.cloudinary.com/dyyj2hjf5/image/upload/w_300,h_300,q_auto/v1582552627/IMG-20200218-WA0019_ofsal1.jpg',
+      role: 'Software Engineer',
+      Zodiac: 'Virgo',
+      twitter: 'https://twitter.com/Dammyton16',
+      linkedin: 'https://www.linkedin.com/in/damilola-owolabi-7821b714a/'
+    }
   ]
 })
