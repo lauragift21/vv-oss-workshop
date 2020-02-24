@@ -73,7 +73,7 @@ export const state = () => ({
     {
       name: 'Damilola Owolabi',
       image:
-        'https://res.cloudinary.com/dyyj2hjf5/image/upload/v1582552627/IMG-20200218-WA0019_ofsal1.jpg',
+        'https://res.cloudinary.com/dyyj2hjf5/image/upload/w_300,h_300,q_auto/v1582552627/IMG-20200218-WA0019_ofsal1.jpg',
       role: 'Software Engineer',
       Zodiac: 'Virgo',
       twitter: 'https://twitter.com/Dammyton16',
