@@ -64,7 +64,7 @@ export const state = () => ({
     {
       name: 'Promise Orung',
       image:
-        'https://scontent-los2-1.xx.fbcdn.net/v/t1.0-9/s960x960/81251210_1467542900089625_3363278281204826112_o.jpg?_nc_cat=101&_nc_eui2=AeEta-dBms-Gy0BVTvspoExmiql-HXn4GUuCK9Efwpxm0ZfcCafHs5qo7DL2BlYXhIA5EQKOc6PGvLC4aMlLcf0-Zh_mK8LlVDPc-pw74nk_gg&_nc_ohc=EIVprUE3U8MAX8P_q_M&_nc_ht=scontent-los2-1.xx&_nc_tp=7&oh=06a337753879d8714347c6def166fe13&oe=5EC4D342',
+        'https://pbs.twimg.com/profile_images/1001864678514020352/99XsHsAy_400x400.jpg',
       role: 'Frontend Developer',
       Zodiac: 'Cancer',
       twitter: 'https://twitter.com/Promiseorung',
