@@ -27,14 +27,23 @@ export const state = () => ({
       linkedin: 'https://www.linkedin.com/in/sakirat-kehinde-usman-3a4600117/'
     },
     {
+      name: 'Grace Ejegwa',
+      image:
+        'https://media-exp1.licdn.com/dms/image/C4D03AQEW3r8xksI6GQ/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=uqrOXCAMFWYX7uKYZk1SNN4LaqxJf0g80o0dYjw9e5Y',
+      role: 'Backend Developer',
+      Zodiac: 'Gemini',
+      twitter: 'https://twitter.com/grayceeCharles',
+      linkedin: 'https://www.linkedin.com/in/grace-ejegwa-734a35aa/'
+    },
+    {
       name: 'Keren-happuch Achoja',
       image: 'https://pbs.twimg.com/profile_images/800504712793571332/ZE0fW8MK_400x400.jpg',
       role: 'Frontend Developer Intern',
       Zodiac: 'Aquarus',
       twitter: 'https://twitter.com/go_qay',
       linkedin: 'https://www.linkedin.com/in/achojakay'
-     },
-     {
+    },
+    {
       name: 'Amarachi Shulammite Aso',
       image:
         'https://avatars.io/twitter/AsoAmarachi',
